@@ -1,0 +1,6067 @@
+{
+  "model": "iPad",
+  "platform": "ios",
+  "platformVersion": "10.15.3",
+  "maxTextureSize": 16384,
+  "duration": 29.751173973083,
+  "corona": "2020.3575",
+  "environment": "simulator",
+  "startTime": 1591556591.5188,
+  "targetAppStore": "apple",
+  "startState": {
+    "scoreClassic": 0,
+    "gameClock": 256.933,
+    "location": "/lesson/colors/activity/search/rank/1?content=colors.core.ABCEG",
+    "modalStack": ""
+  },
+  "events": [
+    {
+      "y": 57,
+      "macroTime": 2.811173915863,
+      "time": 9377.94,
+      "phase": "began",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8211739063263,
+      "time": 9387.402,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8211739063263,
+      "time": 9388.302,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8411741256714,
+      "time": 9407.666,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8511741161346,
+      "time": 9419.396,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8511741161346,
+      "time": 9424.201,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8711740970612,
+      "time": 9437.008,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8711740970612,
+      "time": 9439.388,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8811740875244,
+      "time": 9452.96,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.8911740779877,
+      "time": 9455.583,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.9011740684509,
+      "time": 9470.442,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.9011740684509,
+      "time": 9471.663,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.9211740493774,
+      "time": 9487.266,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.9211740493774,
+      "time": 9488.024,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.9311740398407,
+      "time": 9502.806,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.9311740398407,
+      "time": 9504.25,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.9511740207672,
+      "time": 9519.287,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 2.9511740207672,
+      "time": 9521.504,
+      "phase": "ended",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 420
+    },
+    {
+      "y": 57,
+      "macroTime": 3.231173992157,
+      "time": 9805.223,
+      "phase": "began",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.2511739730835,
+      "time": 9819.996,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.27117395401,
+      "time": 9837.467,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.27117395401,
+      "time": 9844.786,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.2811739444733,
+      "time": 9852.291,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.2911739349365,
+      "time": 9864.993,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.3011739253998,
+      "time": 9873.132,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.311173915863,
+      "time": 9876.079,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.3211739063263,
+      "time": 9885.445,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.3211739063263,
+      "time": 9892.442,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.3311741352081,
+      "time": 9902.071,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.3411741256714,
+      "time": 9908.981,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.3511741161346,
+      "time": 9925.087,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 57,
+      "macroTime": 3.3611741065979,
+      "time": 9926.291,
+      "phase": "ended",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 62,
+      "macroTime": 3.6611740589142,
+      "time": 10225.997,
+      "phase": "began",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.6611740589142,
+      "time": 10228.345,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.6711740493774,
+      "time": 10237.578,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.6811740398407,
+      "time": 10252.357,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.691174030304,
+      "time": 10256.497,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.7111740112305,
+      "time": 10276.17,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.7211740016937,
+      "time": 10285.472,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.7411739826202,
+      "time": 10307.325,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.7411739826202,
+      "time": 10308.529,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.7511739730835,
+      "time": 10319.446,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.7511739730835,
+      "time": 10320.878,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.77117395401,
+      "time": 10341.989,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 62,
+      "macroTime": 3.77117395401,
+      "time": 10342.877,
+      "phase": "ended",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 316
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1011741161346,
+      "time": 10665.455,
+      "phase": "began",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1011741161346,
+      "time": 10674.411,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1111741065979,
+      "time": 10675.326,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1211740970612,
+      "time": 10692.848,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1411740779877,
+      "time": 10706.95,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1411740779877,
+      "time": 10709.087,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1511740684509,
+      "time": 10718.649,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1611740589142,
+      "time": 10725.55,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1711740493774,
+      "time": 10740.356,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1711740493774,
+      "time": 10741.653,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.1811740398407,
+      "time": 10752.367,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.191174030304,
+      "time": 10758.038,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.2011740207672,
+      "time": 10772.591,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.2011740207672,
+      "time": 10774.291,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.2111740112305,
+      "time": 10784.573,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.2211740016937,
+      "time": 10790.223,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.2411739826202,
+      "time": 10805.313,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 102,
+      "macroTime": 4.2411739826202,
+      "time": 10807.106,
+      "phase": "ended",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 243,
+      "macroTime": 4.9711740016937,
+      "time": 11543.108,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 243,
+      "macroTime": 4.981173992157,
+      "time": 11546.157,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 245,
+      "macroTime": 4.981173992157,
+      "time": 11553.955,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 245,
+      "macroTime": 4.981173992157,
+      "time": 11555.107,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 249,
+      "macroTime": 4.9911739826202,
+      "time": 11559.427,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 187
+    },
+    {
+      "y": 249,
+      "macroTime": 4.9911739826202,
+      "time": 11562.257,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 187
+    },
+    {
+      "y": 252,
+      "macroTime": 5.0011739730835,
+      "time": 11570.241,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 184
+    },
+    {
+      "y": 252,
+      "macroTime": 5.0011739730835,
+      "time": 11571.244,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 184
+    },
+    {
+      "y": 257,
+      "macroTime": 5.0011739730835,
+      "time": 11574.587,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 181
+    },
+    {
+      "y": 257,
+      "macroTime": 5.0111739635468,
+      "time": 11575.265,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 181
+    },
+    {
+      "y": 259,
+      "macroTime": 5.02117395401,
+      "time": 11587.326,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 177
+    },
+    {
+      "y": 259,
+      "macroTime": 5.02117395401,
+      "time": 11588.867,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 177
+    },
+    {
+      "y": 262,
+      "macroTime": 5.02117395401,
+      "time": 11590.513,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 175
+    },
+    {
+      "y": 262,
+      "macroTime": 5.02117395401,
+      "time": 11591.233,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 175
+    },
+    {
+      "y": 265,
+      "macroTime": 5.0311739444733,
+      "time": 11602.284,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 173
+    },
+    {
+      "y": 265,
+      "macroTime": 5.0311739444733,
+      "time": 11603.404,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 173
+    },
+    {
+      "y": 268,
+      "macroTime": 5.0411739349365,
+      "time": 11607.754,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 170
+    },
+    {
+      "y": 268,
+      "macroTime": 5.0411739349365,
+      "time": 11608.527,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 170
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4311740398407,
+      "time": 11999.308,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 150
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4311740398407,
+      "time": 12001.2,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 150
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4311740398407,
+      "time": 12003.718,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 150
+    },
+    {
+      "y": 271,
+      "macroTime": 5.441174030304,
+      "time": 12005.54,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 150
+    },
+    {
+      "y": 271,
+      "macroTime": 5.441174030304,
+      "time": 12011.545,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4511740207672,
+      "time": 12020.046,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4511740207672,
+      "time": 12021.09,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4511740207672,
+      "time": 12021.799,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4611740112305,
+      "time": 12028.101,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4711740016937,
+      "time": 12037.61,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4711740016937,
+      "time": 12039.218,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4711740016937,
+      "time": 12043.807,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.481173992157,
+      "time": 12053.677,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.4911739826202,
+      "time": 12059.755,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5011739730835,
+      "time": 12069.712,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5111739635468,
+      "time": 12076.936,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.52117395401,
+      "time": 12091.222,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.52117395401,
+      "time": 12093.315,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 149
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5311739444733,
+      "time": 12102.416,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 148
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5311739444733,
+      "time": 12103.919,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 148
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5411739349365,
+      "time": 12108.714,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 148
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5411739349365,
+      "time": 12109.575,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 148
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5511739253998,
+      "time": 12121.746,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 148
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5511739253998,
+      "time": 12124.375,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 148
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5511739253998,
+      "time": 12124.957,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 148
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5711739063263,
+      "time": 12136.449,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 147
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5711739063263,
+      "time": 12137.374,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 147
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5711739063263,
+      "time": 12140.741,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 147
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5711739063263,
+      "time": 12141.36,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 147
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5911741256714,
+      "time": 12155.814,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 146
+    },
+    {
+      "y": 271,
+      "macroTime": 5.5911741256714,
+      "time": 12157.209,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 145
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6011741161346,
+      "time": 12169.625,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 145
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6011741161346,
+      "time": 12170.409,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 145
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6011741161346,
+      "time": 12173.539,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 144
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6011741161346,
+      "time": 12174.178,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 144
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6211740970612,
+      "time": 12188.864,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 143
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6211740970612,
+      "time": 12190.537,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 143
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6311740875244,
+      "time": 12204.257,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6311740875244,
+      "time": 12205.138,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6411740779877,
+      "time": 12205.848,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 139
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6411740779877,
+      "time": 12206.41,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 139
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6511740684509,
+      "time": 12224.845,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 133
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6611740589142,
+      "time": 12225.752,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 133
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6711740493774,
+      "time": 12236.595,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 131
+    },
+    {
+      "y": 271,
+      "macroTime": 5.6711740493774,
+      "time": 12237.641,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 271,
+      "macroTime": 5.691174030304,
+      "time": 12255.623,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 123
+    },
+    {
+      "y": 271,
+      "macroTime": 5.691174030304,
+      "time": 12257.197,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 123
+    },
+    {
+      "y": 270,
+      "macroTime": 5.7011740207672,
+      "time": 12269.289,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 121
+    },
+    {
+      "y": 269,
+      "macroTime": 5.7011740207672,
+      "time": 12270.247,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 119
+    },
+    {
+      "y": 267,
+      "macroTime": 5.7211740016937,
+      "time": 12286.995,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 117
+    },
+    {
+      "y": 266,
+      "macroTime": 5.7211740016937,
+      "time": 12287.727,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 115
+    },
+    {
+      "y": 265,
+      "macroTime": 5.7211740016937,
+      "time": 12294.492,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 113
+    },
+    {
+      "y": 265,
+      "macroTime": 5.7211740016937,
+      "time": 12295.228,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 113
+    },
+    {
+      "y": 263,
+      "macroTime": 5.731173992157,
+      "time": 12304.897,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 113
+    },
+    {
+      "y": 263,
+      "macroTime": 5.7411739826202,
+      "time": 12306.248,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 113
+    },
+    {
+      "y": 262,
+      "macroTime": 5.7411739826202,
+      "time": 12310.539,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 262,
+      "macroTime": 5.7411739826202,
+      "time": 12311.111,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 261,
+      "macroTime": 5.7511739730835,
+      "time": 12320.483,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 110
+    },
+    {
+      "y": 261,
+      "macroTime": 5.7511739730835,
+      "time": 12322.702,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 110
+    },
+    {
+      "y": 260,
+      "macroTime": 5.7611739635468,
+      "time": 12326.444,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 109
+    },
+    {
+      "y": 260,
+      "macroTime": 5.7611739635468,
+      "time": 12327.028,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 109
+    },
+    {
+      "y": 258,
+      "macroTime": 5.77117395401,
+      "time": 12335.541,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 108
+    },
+    {
+      "y": 258,
+      "macroTime": 5.77117395401,
+      "time": 12336.413,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 108
+    },
+    {
+      "y": 258,
+      "macroTime": 5.77117395401,
+      "time": 12344.632,
+      "phase": "ended",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 108
+    },
+    {
+      "y": 252,
+      "macroTime": 5.8711740970612,
+      "time": 12441.917,
+      "phase": "began",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.8811740875244,
+      "time": 12454.141,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.8911740779877,
+      "time": 12456.12,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9011740684509,
+      "time": 12469.404,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9011740684509,
+      "time": 12472.406,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9211740493774,
+      "time": 12494.596,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9311740398407,
+      "time": 12502.318,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9311740398407,
+      "time": 12504.358,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9511740207672,
+      "time": 12523.049,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9611740112305,
+      "time": 12535.056,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9711740016937,
+      "time": 12537.025,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9911739826202,
+      "time": 12556.484,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9911739826202,
+      "time": 12558.051,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9911739826202,
+      "time": 12558.856,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 107
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9911739826202,
+      "time": 12561.188,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 108
+    },
+    {
+      "y": 252,
+      "macroTime": 5.9911739826202,
+      "time": 12561.81,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 108
+    },
+    {
+      "y": 252,
+      "macroTime": 6.0011739730835,
+      "time": 12569.519,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 109
+    },
+    {
+      "y": 252,
+      "macroTime": 6.0011739730835,
+      "time": 12570.164,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 109
+    },
+    {
+      "y": 252,
+      "macroTime": 6.0111739635468,
+      "time": 12578.119,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 252,
+      "macroTime": 6.02117395401,
+      "time": 12587.777,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 252,
+      "macroTime": 6.02117395401,
+      "time": 12588.494,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 113
+    },
+    {
+      "y": 252,
+      "macroTime": 6.02117395401,
+      "time": 12589.363,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 113
+    },
+    {
+      "y": 253,
+      "macroTime": 6.02117395401,
+      "time": 12593.622,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 117
+    },
+    {
+      "y": 253,
+      "macroTime": 6.02117395401,
+      "time": 12594.202,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 117
+    },
+    {
+      "y": 255,
+      "macroTime": 6.0311739444733,
+      "time": 12602.472,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 119
+    },
+    {
+      "y": 255,
+      "macroTime": 6.0311739444733,
+      "time": 12603.147,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 119
+    },
+    {
+      "y": 256,
+      "macroTime": 6.0411739349365,
+      "time": 12610.115,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 123
+    },
+    {
+      "y": 256,
+      "macroTime": 6.0411739349365,
+      "time": 12610.89,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 123
+    },
+    {
+      "y": 258,
+      "macroTime": 6.0511739253998,
+      "time": 12620.12,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 129
+    },
+    {
+      "y": 258,
+      "macroTime": 6.0511739253998,
+      "time": 12620.821,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 129
+    },
+    {
+      "y": 258,
+      "macroTime": 6.061173915863,
+      "time": 12626.917,
+      "phase": "ended",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 129
+    },
+    {
+      "y": 277,
+      "macroTime": 6.191174030304,
+      "time": 12757.57,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 177
+    },
+    {
+      "y": 277,
+      "macroTime": 6.191174030304,
+      "time": 12760.122,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 177
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2011740207672,
+      "time": 12769.963,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 178
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2011740207672,
+      "time": 12771.482,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 179
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2211740016937,
+      "time": 12788.389,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2211740016937,
+      "time": 12790.562,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2211740016937,
+      "time": 12791.397,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 277,
+      "macroTime": 6.231173992157,
+      "time": 12802.86,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 181
+    },
+    {
+      "y": 277,
+      "macroTime": 6.231173992157,
+      "time": 12803.985,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 182
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2511739730835,
+      "time": 12821.572,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 183
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2511739730835,
+      "time": 12823.126,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 183
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2611739635468,
+      "time": 12828.254,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 184
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2611739635468,
+      "time": 12835.061,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 184
+    },
+    {
+      "y": 277,
+      "macroTime": 6.27117395401,
+      "time": 12836.331,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 184
+    },
+    {
+      "y": 277,
+      "macroTime": 6.27117395401,
+      "time": 12836.932,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 184
+    },
+    {
+      "y": 277,
+      "macroTime": 6.27117395401,
+      "time": 12844.997,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 185
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2811739444733,
+      "time": 12854.763,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 185
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2911739349365,
+      "time": 12856.428,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 185
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2911739349365,
+      "time": 12857.345,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 185
+    },
+    {
+      "y": 277,
+      "macroTime": 6.2911739349365,
+      "time": 12860.419,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 186
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3011739253998,
+      "time": 12869.184,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 186
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3011739253998,
+      "time": 12870.143,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 186
+    },
+    {
+      "y": 277,
+      "macroTime": 6.311173915863,
+      "time": 12876.889,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 186
+    },
+    {
+      "y": 277,
+      "macroTime": 6.311173915863,
+      "time": 12877.523,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 186
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3211739063263,
+      "time": 12891.861,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 187
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3211739063263,
+      "time": 12893.315,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3311741352081,
+      "time": 12902.426,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3311741352081,
+      "time": 12903.736,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3411741256714,
+      "time": 12909.27,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 189
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3411741256714,
+      "time": 12909.904,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 189
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3511741161346,
+      "time": 12922.53,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 189
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3611741065979,
+      "time": 12925.285,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 189
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3611741065979,
+      "time": 12925.989,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3611741065979,
+      "time": 12926.497,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3711740970612,
+      "time": 12935.734,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 192
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3711740970612,
+      "time": 12937.135,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 192
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3711740970612,
+      "time": 12941.53,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 194
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3711740970612,
+      "time": 12942.306,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 194
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3811740875244,
+      "time": 12954.754,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 195
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3911740779877,
+      "time": 12955.807,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 195
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3911740779877,
+      "time": 12957.409,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 277,
+      "macroTime": 6.3911740779877,
+      "time": 12958.003,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4011740684509,
+      "time": 12969.479,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4011740684509,
+      "time": 12970.317,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4011740684509,
+      "time": 12974.485,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 197
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4111740589142,
+      "time": 12975.299,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 197
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4211740493774,
+      "time": 12987.223,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 198
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4211740493774,
+      "time": 12988.031,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 198
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4311740398407,
+      "time": 13002.731,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 198
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4311740398407,
+      "time": 13003.576,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 198
+    },
+    {
+      "y": 277,
+      "macroTime": 6.441174030304,
+      "time": 13005.796,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 198
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4511740207672,
+      "time": 13020.48,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 199
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4511740207672,
+      "time": 13021.937,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 199
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4511740207672,
+      "time": 13024.39,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 199
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4511740207672,
+      "time": 13025.003,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 199
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4711740016937,
+      "time": 13036.611,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 199
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4711740016937,
+      "time": 13038.117,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 199
+    },
+    {
+      "y": 277,
+      "macroTime": 6.4711740016937,
+      "time": 13038.746,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 199
+    },
+    {
+      "y": 276,
+      "macroTime": 6.4911739826202,
+      "time": 13058.293,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 200
+    },
+    {
+      "y": 276,
+      "macroTime": 6.4911739826202,
+      "time": 13059.065,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 200
+    },
+    {
+      "y": 275,
+      "macroTime": 6.5011739730835,
+      "time": 13070.178,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 200
+    },
+    {
+      "y": 274,
+      "macroTime": 6.5011739730835,
+      "time": 13070.958,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 200
+    },
+    {
+      "y": 273,
+      "macroTime": 6.52117395401,
+      "time": 13089.018,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 201
+    },
+    {
+      "y": 273,
+      "macroTime": 6.52117395401,
+      "time": 13090.942,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 201
+    },
+    {
+      "y": 273,
+      "macroTime": 6.52117395401,
+      "time": 13094.984,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 201
+    },
+    {
+      "y": 273,
+      "macroTime": 6.5311739444733,
+      "time": 13103.357,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 201
+    },
+    {
+      "y": 273,
+      "macroTime": 6.5311739444733,
+      "time": 13104.036,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 201
+    },
+    {
+      "y": 272,
+      "macroTime": 6.5411739349365,
+      "time": 13111.223,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 201
+    },
+    {
+      "y": 271,
+      "macroTime": 6.5511739253998,
+      "time": 13120.758,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 271,
+      "macroTime": 6.5511739253998,
+      "time": 13121.908,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 271,
+      "macroTime": 6.561173915863,
+      "time": 13127.813,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 271,
+      "macroTime": 6.561173915863,
+      "time": 13128.449,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 270,
+      "macroTime": 6.5711739063263,
+      "time": 13135.848,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 270,
+      "macroTime": 6.5711739063263,
+      "time": 13136.681,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 269,
+      "macroTime": 6.5711739063263,
+      "time": 13144.251,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 269,
+      "macroTime": 6.5711739063263,
+      "time": 13145.055,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 266,
+      "macroTime": 6.5811741352081,
+      "time": 13153.413,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 266,
+      "macroTime": 6.5811741352081,
+      "time": 13154.967,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 202
+    },
+    {
+      "y": 264,
+      "macroTime": 6.5911741256714,
+      "time": 13160.097,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 203
+    },
+    {
+      "y": 264,
+      "macroTime": 6.5911741256714,
+      "time": 13160.73,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 203
+    },
+    {
+      "y": 261,
+      "macroTime": 6.6011741161346,
+      "time": 13170.399,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 203
+    },
+    {
+      "y": 261,
+      "macroTime": 6.6011741161346,
+      "time": 13172.175,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 203
+    },
+    {
+      "y": 258,
+      "macroTime": 6.6111741065979,
+      "time": 13175.98,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 204
+    },
+    {
+      "y": 258,
+      "macroTime": 6.6111741065979,
+      "time": 13176.569,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 204
+    },
+    {
+      "y": 255,
+      "macroTime": 6.6211740970612,
+      "time": 13186.284,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 205
+    },
+    {
+      "y": 255,
+      "macroTime": 6.6211740970612,
+      "time": 13188.242,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 205
+    },
+    {
+      "y": 252,
+      "macroTime": 6.6211740970612,
+      "time": 13191.979,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 206
+    },
+    {
+      "y": 252,
+      "macroTime": 6.6211740970612,
+      "time": 13192.607,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 206
+    },
+    {
+      "y": 247,
+      "macroTime": 6.6411740779877,
+      "time": 13205.502,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 208
+    },
+    {
+      "y": 247,
+      "macroTime": 6.6411740779877,
+      "time": 13206.547,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 208
+    },
+    {
+      "y": 242,
+      "macroTime": 6.6411740779877,
+      "time": 13207.807,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 209
+    },
+    {
+      "y": 242,
+      "macroTime": 6.6411740779877,
+      "time": 13208.329,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 209
+    },
+    {
+      "y": 117,
+      "macroTime": 6.7811739444733,
+      "time": 13349.019,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 269
+    },
+    {
+      "y": 117,
+      "macroTime": 6.7811739444733,
+      "time": 13349.985,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 269
+    },
+    {
+      "y": 112,
+      "macroTime": 6.7811739444733,
+      "time": 13353.841,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 272
+    },
+    {
+      "y": 112,
+      "macroTime": 6.7811739444733,
+      "time": 13354.668,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 272
+    },
+    {
+      "y": 108,
+      "macroTime": 6.7911739349365,
+      "time": 13361.553,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 275
+    },
+    {
+      "y": 108,
+      "macroTime": 6.8011739253998,
+      "time": 13368.827,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 275
+    },
+    {
+      "y": 104,
+      "macroTime": 6.8011739253998,
+      "time": 13370.049,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 278
+    },
+    {
+      "y": 104,
+      "macroTime": 6.8011739253998,
+      "time": 13370.924,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 278
+    },
+    {
+      "y": 102,
+      "macroTime": 6.811173915863,
+      "time": 13378.468,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 278
+    },
+    {
+      "y": 102,
+      "macroTime": 6.8211739063263,
+      "time": 13392.231,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 278
+    },
+    {
+      "y": 99,
+      "macroTime": 6.8211739063263,
+      "time": 13393.682,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 280
+    },
+    {
+      "y": 97,
+      "macroTime": 6.8211739063263,
+      "time": 13394.42,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 282
+    },
+    {
+      "y": 95,
+      "macroTime": 6.8311741352081,
+      "time": 13403.553,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 283
+    },
+    {
+      "y": 93,
+      "macroTime": 6.8411741256714,
+      "time": 13410.712,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 284
+    },
+    {
+      "y": 93,
+      "macroTime": 6.8411741256714,
+      "time": 13411.833,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 284
+    },
+    {
+      "y": 93,
+      "macroTime": 6.8611741065979,
+      "time": 13426.494,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 285
+    },
+    {
+      "y": 92,
+      "macroTime": 6.8611741065979,
+      "time": 13427.51,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 286
+    },
+    {
+      "y": 91,
+      "macroTime": 6.8711740970612,
+      "time": 13435.465,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 286
+    },
+    {
+      "y": 91,
+      "macroTime": 6.8711740970612,
+      "time": 13436.114,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 286
+    },
+    {
+      "y": 91,
+      "macroTime": 6.8711740970612,
+      "time": 13442.72,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 91,
+      "macroTime": 6.8711740970612,
+      "time": 13443.626,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 90,
+      "macroTime": 6.8811740875244,
+      "time": 13454.085,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 90,
+      "macroTime": 6.8911740779877,
+      "time": 13455.908,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 90,
+      "macroTime": 6.8911740779877,
+      "time": 13458.363,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 288
+    },
+    {
+      "y": 90,
+      "macroTime": 6.8911740779877,
+      "time": 13458.926,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 288
+    },
+    {
+      "y": 90,
+      "macroTime": 6.9011740684509,
+      "time": 13469.154,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 288
+    },
+    {
+      "y": 90,
+      "macroTime": 6.9011740684509,
+      "time": 13470.064,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 288
+    },
+    {
+      "y": 89,
+      "macroTime": 6.9011740684509,
+      "time": 13474.889,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 288
+    },
+    {
+      "y": 89,
+      "macroTime": 6.9111740589142,
+      "time": 13475.487,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 288
+    },
+    {
+      "y": 89,
+      "macroTime": 6.9211740493774,
+      "time": 13491.056,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 288
+    },
+    {
+      "y": 88,
+      "macroTime": 6.9211740493774,
+      "time": 13492.115,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 289
+    },
+    {
+      "y": 88,
+      "macroTime": 6.9311740398407,
+      "time": 13502.8,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 289
+    },
+    {
+      "y": 88,
+      "macroTime": 6.9311740398407,
+      "time": 13503.723,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 289
+    },
+    {
+      "y": 87,
+      "macroTime": 6.941174030304,
+      "time": 13507.203,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 290
+    },
+    {
+      "y": 87,
+      "macroTime": 6.941174030304,
+      "time": 13507.956,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 290
+    },
+    {
+      "y": 86,
+      "macroTime": 6.9511740207672,
+      "time": 13524.508,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 291
+    },
+    {
+      "y": 86,
+      "macroTime": 6.9611740112305,
+      "time": 13525.817,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 291
+    },
+    {
+      "y": 86,
+      "macroTime": 6.9611740112305,
+      "time": 13534.924,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 291
+    },
+    {
+      "y": 86,
+      "macroTime": 6.9711740016937,
+      "time": 13536.437,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 291
+    },
+    {
+      "y": 85,
+      "macroTime": 6.9711740016937,
+      "time": 13539.299,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 292
+    },
+    {
+      "y": 85,
+      "macroTime": 6.9711740016937,
+      "time": 13539.937,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 292
+    },
+    {
+      "y": 84,
+      "macroTime": 6.981173992157,
+      "time": 13554.804,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 292
+    },
+    {
+      "y": 83,
+      "macroTime": 6.9911739826202,
+      "time": 13556,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 293
+    },
+    {
+      "y": 82,
+      "macroTime": 7.0011739730835,
+      "time": 13568.376,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 293
+    },
+    {
+      "y": 82,
+      "macroTime": 7.0011739730835,
+      "time": 13569.372,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 293
+    },
+    {
+      "y": 81,
+      "macroTime": 7.0011739730835,
+      "time": 13571.599,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 293
+    },
+    {
+      "y": 81,
+      "macroTime": 7.0011739730835,
+      "time": 13572.21,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 293
+    },
+    {
+      "y": 80,
+      "macroTime": 7.02117395401,
+      "time": 13586.495,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 294
+    },
+    {
+      "y": 80,
+      "macroTime": 7.02117395401,
+      "time": 13587.615,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 294
+    },
+    {
+      "y": 78,
+      "macroTime": 7.02117395401,
+      "time": 13588.299,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 294
+    },
+    {
+      "y": 78,
+      "macroTime": 7.02117395401,
+      "time": 13590.114,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 294
+    },
+    {
+      "y": 78,
+      "macroTime": 7.0311739444733,
+      "time": 13601.855,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 296
+    },
+    {
+      "y": 78,
+      "macroTime": 7.0311739444733,
+      "time": 13602.826,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 296
+    },
+    {
+      "y": 76,
+      "macroTime": 7.0411739349365,
+      "time": 13605.342,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 296
+    },
+    {
+      "y": 76,
+      "macroTime": 7.0411739349365,
+      "time": 13606.146,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 296
+    },
+    {
+      "y": 75,
+      "macroTime": 7.0511739253998,
+      "time": 13618.601,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 297
+    },
+    {
+      "y": 75,
+      "macroTime": 7.0511739253998,
+      "time": 13619.807,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 297
+    },
+    {
+      "y": 74,
+      "macroTime": 7.0511739253998,
+      "time": 13620.48,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 297
+    },
+    {
+      "y": 74,
+      "macroTime": 7.0511739253998,
+      "time": 13621.052,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 297
+    },
+    {
+      "y": 73,
+      "macroTime": 7.0711739063263,
+      "time": 13635.414,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 298
+    },
+    {
+      "y": 71,
+      "macroTime": 7.0711739063263,
+      "time": 13636.913,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 298
+    },
+    {
+      "y": 71,
+      "macroTime": 7.0811741352081,
+      "time": 13645.281,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 298
+    },
+    {
+      "y": 71,
+      "macroTime": 7.0811741352081,
+      "time": 13654.622,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 298
+    },
+    {
+      "y": 70,
+      "macroTime": 7.0911741256714,
+      "time": 13655.556,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 298
+    },
+    {
+      "y": 70,
+      "macroTime": 7.0911741256714,
+      "time": 13656.215,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 298
+    },
+    {
+      "y": 69,
+      "macroTime": 7.0911741256714,
+      "time": 13660.511,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 69,
+      "macroTime": 7.0911741256714,
+      "time": 13661.117,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 68,
+      "macroTime": 7.1011741161346,
+      "time": 13669.753,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 68,
+      "macroTime": 7.1011741161346,
+      "time": 13670.588,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 68,
+      "macroTime": 7.1111741065979,
+      "time": 13676.876,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 68,
+      "macroTime": 7.1111741065979,
+      "time": 13677.707,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 67,
+      "macroTime": 7.1211740970612,
+      "time": 13686.73,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 67,
+      "macroTime": 7.1211740970612,
+      "time": 13689.174,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 66,
+      "macroTime": 7.1211740970612,
+      "time": 13692.968,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 66,
+      "macroTime": 7.1211740970612,
+      "time": 13693.646,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 65,
+      "macroTime": 7.1311740875244,
+      "time": 13702.101,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 65,
+      "macroTime": 7.1311740875244,
+      "time": 13703.051,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 64,
+      "macroTime": 7.1411740779877,
+      "time": 13709.913,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 64,
+      "macroTime": 7.1411740779877,
+      "time": 13710.766,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 63,
+      "macroTime": 7.1611740589142,
+      "time": 13725.206,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 63,
+      "macroTime": 7.1611740589142,
+      "time": 13726.341,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 62,
+      "macroTime": 7.1711740493774,
+      "time": 13736.639,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 62,
+      "macroTime": 7.1711740493774,
+      "time": 13737.775,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 61,
+      "macroTime": 7.1711740493774,
+      "time": 13741.485,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 61,
+      "macroTime": 7.1711740493774,
+      "time": 13742.056,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 60,
+      "macroTime": 7.1811740398407,
+      "time": 13753.667,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 60,
+      "macroTime": 7.191174030304,
+      "time": 13755.945,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 59,
+      "macroTime": 7.191174030304,
+      "time": 13757.763,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 59,
+      "macroTime": 7.191174030304,
+      "time": 13758.314,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 58,
+      "macroTime": 7.2011740207672,
+      "time": 13769.65,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 58,
+      "macroTime": 7.2011740207672,
+      "time": 13770.511,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 57,
+      "macroTime": 7.2011740207672,
+      "time": 13773.978,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 57,
+      "macroTime": 7.2011740207672,
+      "time": 13774.63,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 57,
+      "macroTime": 7.2211740016937,
+      "time": 13791.547,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 57,
+      "macroTime": 7.2211740016937,
+      "time": 13792.288,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.231173992157,
+      "time": 13802.469,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.231173992157,
+      "time": 13803.215,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.2411739826202,
+      "time": 13806.17,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.2411739826202,
+      "time": 13806.821,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.2611739635468,
+      "time": 13826.402,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.27117395401,
+      "time": 13836.101,
+      "phase": "ended",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.3811740875244,
+      "time": 13948.385,
+      "phase": "began",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.3811740875244,
+      "time": 13950.947,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.3911740779877,
+      "time": 13959.931,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4011740684509,
+      "time": 13969.832,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4111740589142,
+      "time": 13976.244,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4211740493774,
+      "time": 13991.055,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4211740493774,
+      "time": 13993.082,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4311740398407,
+      "time": 14001.196,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.441174030304,
+      "time": 14008.447,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4511740207672,
+      "time": 14020.947,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4511740207672,
+      "time": 14024.871,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4711740016937,
+      "time": 14035.381,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4711740016937,
+      "time": 14041.269,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4911739826202,
+      "time": 14057.713,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.4911739826202,
+      "time": 14058.988,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.5011739730835,
+      "time": 14068.752,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.5011739730835,
+      "time": 14073.056,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.52117395401,
+      "time": 14088.243,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 56,
+      "macroTime": 7.52117395401,
+      "time": 14091.39,
+      "phase": "ended",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 299
+    },
+    {
+      "y": 99,
+      "macroTime": 7.9311740398407,
+      "time": 14504.049,
+      "phase": "began",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 7.941174030304,
+      "time": 14506.148,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 7.941174030304,
+      "time": 14510.477,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 7.941174030304,
+      "time": 14511.163,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 7.9711740016937,
+      "time": 14538.253,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 7.9711740016937,
+      "time": 14542.397,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 7.981173992157,
+      "time": 14554.011,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 7.9911739826202,
+      "time": 14558.649,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 8.0111739635468,
+      "time": 14581.362,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 8.0111739635468,
+      "time": 14582.405,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 8.02117395401,
+      "time": 14590.775,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 8.0511739253998,
+      "time": 14616.862,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 8.0511739253998,
+      "time": 14617.838,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 8.0511739253998,
+      "time": 14622.776,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 8.0711739063263,
+      "time": 14641.234,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 100,
+      "macroTime": 8.0711739063263,
+      "time": 14642.665,
+      "phase": "ended",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 52,
+      "macroTime": 8.4511740207672,
+      "time": 15021.11,
+      "phase": "began",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 419
+    },
+    {
+      "y": 52,
+      "macroTime": 8.481173992157,
+      "time": 15053.468,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 421
+    },
+    {
+      "y": 52,
+      "macroTime": 8.481173992157,
+      "time": 15054.581,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 421
+    },
+    {
+      "y": 52,
+      "macroTime": 8.4911739826202,
+      "time": 15059.535,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 421
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5011739730835,
+      "time": 15072.027,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5011739730835,
+      "time": 15073.063,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5111739635468,
+      "time": 15075.696,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.52117395401,
+      "time": 15094.969,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5311739444733,
+      "time": 15096.001,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5311739444733,
+      "time": 15104.464,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5511739253998,
+      "time": 15124.919,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.561173915863,
+      "time": 15126.388,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5711739063263,
+      "time": 15137.234,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5711739063263,
+      "time": 15140.394,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5911741256714,
+      "time": 15155.822,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.5911741256714,
+      "time": 15157.449,
+      "phase": "moved",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 52,
+      "macroTime": 8.6011741161346,
+      "time": 15173.499,
+      "phase": "ended",
+      "alias": "red",
+      "eventType": "touch",
+      "x": 422
+    },
+    {
+      "y": 88,
+      "macroTime": 10.061173915863,
+      "time": 16631.391,
+      "phase": "began",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.071173906326,
+      "time": 16641.666,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.091174125671,
+      "time": 16660.659,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.111174106598,
+      "time": 16676.233,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.111174106598,
+      "time": 16677.903,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.121174097061,
+      "time": 16688.41,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.121174097061,
+      "time": 16692.527,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.141174077988,
+      "time": 16708.018,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.141174077988,
+      "time": 16709.043,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.151174068451,
+      "time": 16721.244,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.151174068451,
+      "time": 16724.953,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.171174049377,
+      "time": 16742.208,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.171174049377,
+      "time": 16743.205,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.181174039841,
+      "time": 16754.553,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.191174030304,
+      "time": 16757.039,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.201174020767,
+      "time": 16773.627,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.201174020767,
+      "time": 16774.617,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.21117401123,
+      "time": 16782.261,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.221174001694,
+      "time": 16789.776,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.24117398262,
+      "time": 16807.44,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.24117398262,
+      "time": 16814.389,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.251173973083,
+      "time": 16822.068,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 88,
+      "macroTime": 10.27117395401,
+      "time": 16843.124,
+      "phase": "ended",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 65,
+      "macroTime": 10.721174001694,
+      "time": 17293.766,
+      "phase": "began",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.74117398262,
+      "time": 17312.527,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.751173973083,
+      "time": 17316.109,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.751173973083,
+      "time": 17324.518,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.77117395401,
+      "time": 17343.491,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.791173934937,
+      "time": 17355.944,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.791173934937,
+      "time": 17356.748,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.811173915863,
+      "time": 17376.697,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.811173915863,
+      "time": 17381.965,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.821173906326,
+      "time": 17390.247,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.831174135208,
+      "time": 17400.184,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.841174125671,
+      "time": 17408.356,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.841174125671,
+      "time": 17412.46,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.851174116135,
+      "time": 17422.092,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.861174106598,
+      "time": 17429.351,
+      "phase": "moved",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 64,
+      "macroTime": 10.871174097061,
+      "time": 17441.84,
+      "phase": "ended",
+      "alias": "blue",
+      "eventType": "touch",
+      "x": 300
+    },
+    {
+      "y": 264,
+      "macroTime": 11.531173944473,
+      "time": 18102.368,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.541173934937,
+      "time": 18108.396,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.5511739254,
+      "time": 18123.888,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.5511739254,
+      "time": 18124.604,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.601174116135,
+      "time": 18170.464,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.601174116135,
+      "time": 18172.104,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.601174116135,
+      "time": 18173.339,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.621174097061,
+      "time": 18189.062,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.621174097061,
+      "time": 18189.762,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.641174077988,
+      "time": 18207.555,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.661174058914,
+      "time": 18228.1,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.661174058914,
+      "time": 18229.418,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 264,
+      "macroTime": 11.671174049377,
+      "time": 18239.45,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 196
+    },
+    {
+      "y": 256,
+      "macroTime": 11.951174020767,
+      "time": 18522.984,
+      "phase": "began",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 256,
+      "macroTime": 11.951174020767,
+      "time": 18523.765,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 139
+    },
+    {
+      "y": 256,
+      "macroTime": 11.96117401123,
+      "time": 18528.843,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 138
+    },
+    {
+      "y": 256,
+      "macroTime": 11.96117401123,
+      "time": 18530.955,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 138
+    },
+    {
+      "y": 256,
+      "macroTime": 11.971174001694,
+      "time": 18539.803,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 137
+    },
+    {
+      "y": 256,
+      "macroTime": 11.971174001694,
+      "time": 18544.711,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 137
+    },
+    {
+      "y": 256,
+      "macroTime": 11.981173992157,
+      "time": 18545.34,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 137
+    },
+    {
+      "y": 256,
+      "macroTime": 11.99117398262,
+      "time": 18560.055,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 11.99117398262,
+      "time": 18561.073,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 11.99117398262,
+      "time": 18561.723,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.001173973083,
+      "time": 18573.502,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.011173963547,
+      "time": 18577.523,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.031173944473,
+      "time": 18595.629,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.041173934937,
+      "time": 18608.752,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.041173934937,
+      "time": 18609.468,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.061173915863,
+      "time": 18625.732,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.061173915863,
+      "time": 18626.504,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.071173906326,
+      "time": 18637.664,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.071173906326,
+      "time": 18641.968,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.091174125671,
+      "time": 18658.346,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.091174125671,
+      "time": 18659.269,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.101174116135,
+      "time": 18670.729,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.101174116135,
+      "time": 18674.148,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.121174097061,
+      "time": 18690.458,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.121174097061,
+      "time": 18691.334,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.131174087524,
+      "time": 18704.108,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.151174068451,
+      "time": 18725.063,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.161174058914,
+      "time": 18731.945,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.171174049377,
+      "time": 18739.531,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.191174030304,
+      "time": 18757.199,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.191174030304,
+      "time": 18764.796,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.201174020767,
+      "time": 18771.623,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.221174001694,
+      "time": 18792.378,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.231173992157,
+      "time": 18795.328,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.231173992157,
+      "time": 18804.543,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 256,
+      "macroTime": 12.261173963547,
+      "time": 18826.872,
+      "phase": "ended",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 136
+    },
+    {
+      "y": 258,
+      "macroTime": 13.111174106598,
+      "time": 19680.705,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 258,
+      "macroTime": 13.121174097061,
+      "time": 19691.24,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.121174097061,
+      "time": 19692.66,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.121174097061,
+      "time": 19693.359,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.141174077988,
+      "time": 19709.033,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.161174058914,
+      "time": 19728.717,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.171174049377,
+      "time": 19739.544,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.171174049377,
+      "time": 19741.837,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.191174030304,
+      "time": 19761.101,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.201174020767,
+      "time": 19773.959,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.221174001694,
+      "time": 19794.381,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.231173992157,
+      "time": 19798.507,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 258,
+      "macroTime": 13.24117398262,
+      "time": 19806.809,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 253,
+      "macroTime": 13.621174097061,
+      "time": 20188.044,
+      "phase": "began",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.621174097061,
+      "time": 20190.313,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.621174097061,
+      "time": 20194.525,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.641174077988,
+      "time": 20206.739,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.641174077988,
+      "time": 20210.29,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.661174058914,
+      "time": 20228.561,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.671174049377,
+      "time": 20239.093,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.671174049377,
+      "time": 20242.721,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.691174030304,
+      "time": 20262.671,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.701174020767,
+      "time": 20265.155,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.701174020767,
+      "time": 20271.735,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.701174020767,
+      "time": 20275.08,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.721174001694,
+      "time": 20291.992,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.731173992157,
+      "time": 20304.166,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.74117398262,
+      "time": 20307.25,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.761173963547,
+      "time": 20325.361,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 13.77117395401,
+      "time": 20337.832,
+      "phase": "ended",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.0511739254,
+      "time": 20618.628,
+      "phase": "began",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.0511739254,
+      "time": 20622.846,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.071173906326,
+      "time": 20639.104,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.071173906326,
+      "time": 20639.852,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.091174125671,
+      "time": 20661.48,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.091174125671,
+      "time": 20662.688,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.101174116135,
+      "time": 20665.876,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.101174116135,
+      "time": 20673.329,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.131174087524,
+      "time": 20696.311,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.131174087524,
+      "time": 20697.393,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.151174068451,
+      "time": 20720.898,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 253,
+      "macroTime": 14.151174068451,
+      "time": 20722.431,
+      "phase": "ended",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 125,
+      "macroTime": 15.46117401123,
+      "time": 22033.645,
+      "phase": "began",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 378
+    },
+    {
+      "y": 124,
+      "macroTime": 15.471174001694,
+      "time": 22041.334,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 124,
+      "macroTime": 15.471174001694,
+      "time": 22042.137,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 124,
+      "macroTime": 15.481173992157,
+      "time": 22045.958,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 124,
+      "macroTime": 15.49117398262,
+      "time": 22062.229,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 124,
+      "macroTime": 15.511173963547,
+      "time": 22078.08,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 124,
+      "macroTime": 15.52117395401,
+      "time": 22090.272,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 124,
+      "macroTime": 15.561173915863,
+      "time": 22127.31,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 124,
+      "macroTime": 15.571173906326,
+      "time": 22143.886,
+      "phase": "moved",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 124,
+      "macroTime": 15.571173906326,
+      "time": 22144.786,
+      "phase": "ended",
+      "alias": "pink",
+      "eventType": "touch",
+      "x": 379
+    },
+    {
+      "y": 268,
+      "macroTime": 17.081174135208,
+      "time": 23650.862,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.091174125671,
+      "time": 23656.425,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.101174116135,
+      "time": 23672.709,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.111174106598,
+      "time": 23683.359,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.131174087524,
+      "time": 23695.372,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.131174087524,
+      "time": 23697.614,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.141174077988,
+      "time": 23705.307,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.141174077988,
+      "time": 23711.837,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.161174058914,
+      "time": 23726.527,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.161174058914,
+      "time": 23727.621,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.171174049377,
+      "time": 23739.65,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.171174049377,
+      "time": 23744.723,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.191174030304,
+      "time": 23759.924,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.191174030304,
+      "time": 23760.723,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.201174020767,
+      "time": 23772.03,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.21117401123,
+      "time": 23776.674,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 268,
+      "macroTime": 17.221174001694,
+      "time": 23791.623,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 191
+    },
+    {
+      "y": 251,
+      "macroTime": 17.601174116135,
+      "time": 24174.753,
+      "phase": "began",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 125
+    },
+    {
+      "y": 251,
+      "macroTime": 17.621174097061,
+      "time": 24193.982,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.621174097061,
+      "time": 24195.017,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.631174087524,
+      "time": 24198.166,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.641174077988,
+      "time": 24207.161,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.661174058914,
+      "time": 24225.62,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.671174049377,
+      "time": 24236.822,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.681174039841,
+      "time": 24248.196,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.701174020767,
+      "time": 24271.439,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.701174020767,
+      "time": 24274.615,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.71117401123,
+      "time": 24277.656,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.721174001694,
+      "time": 24293.986,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.74117398262,
+      "time": 24307.834,
+      "phase": "moved",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 251,
+      "macroTime": 17.74117398262,
+      "time": 24310.673,
+      "phase": "ended",
+      "alias": "yellow",
+      "eventType": "touch",
+      "x": 124
+    },
+    {
+      "y": 268,
+      "macroTime": 18.281173944473,
+      "time": 24853.897,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.281173944473,
+      "time": 24854.641,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.291173934937,
+      "time": 24860.224,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.321173906326,
+      "time": 24891.164,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.321173906326,
+      "time": 24893.189,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.341174125671,
+      "time": 24905.765,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.341174125671,
+      "time": 24908.702,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.361174106598,
+      "time": 24933.777,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.371174097061,
+      "time": 24940.793,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.391174077988,
+      "time": 24960.405,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.391174077988,
+      "time": 24961.171,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.481173992157,
+      "time": 25055.043,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.49117398262,
+      "time": 25061.505,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.511173963547,
+      "time": 25077.374,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.52117395401,
+      "time": 25091.313,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.52117395401,
+      "time": 25093.454,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.531173944473,
+      "time": 25104.258,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.541173934937,
+      "time": 25110.12,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.5511739254,
+      "time": 25124.231,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.561173915863,
+      "time": 25125.929,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.571173906326,
+      "time": 25140.66,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.571173906326,
+      "time": 25142.152,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.591174125671,
+      "time": 25158.157,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.591174125671,
+      "time": 25159.092,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.601174116135,
+      "time": 25171.054,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.601174116135,
+      "time": 25174.683,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.621174097061,
+      "time": 25194.042,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.621174097061,
+      "time": 25194.941,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.701174020767,
+      "time": 25273.709,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.721174001694,
+      "time": 25290.128,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.731173992157,
+      "time": 25295.868,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.74117398262,
+      "time": 25305.888,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.74117398262,
+      "time": 25312.717,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.761173963547,
+      "time": 25325.333,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.761173963547,
+      "time": 25328.581,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.77117395401,
+      "time": 25341.387,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.77117395401,
+      "time": 25344.408,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.791173934937,
+      "time": 25355.464,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.791173934937,
+      "time": 25360.921,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.811173915863,
+      "time": 25376.711,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.811173915863,
+      "time": 25377.566,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.821173906326,
+      "time": 25391.004,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.821173906326,
+      "time": 25393.83,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 18.96117401123,
+      "time": 25533.911,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 19.02117395401,
+      "time": 25587.725,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 268,
+      "macroTime": 19.031173944473,
+      "time": 25598.953,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 190
+    },
+    {
+      "y": 266,
+      "macroTime": 21.421174049377,
+      "time": 27990.377,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.451174020767,
+      "time": 28016.414,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.451174020767,
+      "time": 28017.271,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.451174020767,
+      "time": 28021.823,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.46117401123,
+      "time": 28033.211,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.471174001694,
+      "time": 28036.924,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.481173992157,
+      "time": 28046.114,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.49117398262,
+      "time": 28059.056,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.49117398262,
+      "time": 28061.491,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.501173973083,
+      "time": 28071.501,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.511173963547,
+      "time": 28078.222,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.52117395401,
+      "time": 28091.876,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.52117395401,
+      "time": 28093.777,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.541173934937,
+      "time": 28110.134,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.561173915863,
+      "time": 28126.082,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.561173915863,
+      "time": 28126.791,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.571173906326,
+      "time": 28138.171,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.571173906326,
+      "time": 28142.606,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.591174125671,
+      "time": 28157.693,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.851174116135,
+      "time": 28419.327,
+      "phase": "began",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.861174106598,
+      "time": 28425.395,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.871174097061,
+      "time": 28441.485,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.891174077988,
+      "time": 28459.7,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.891174077988,
+      "time": 28460.491,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.901174068451,
+      "time": 28473.729,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.901174068451,
+      "time": 28474.408,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.921174049377,
+      "time": 28493.585,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.941174030304,
+      "time": 28506.453,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.941174030304,
+      "time": 28507.206,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.96117401123,
+      "time": 28526.764,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.971174001694,
+      "time": 28537.535,
+      "phase": "moved",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": 266,
+      "macroTime": 21.971174001694,
+      "time": 28539.435,
+      "phase": "ended",
+      "alias": "orange",
+      "eventType": "touch",
+      "x": 188
+    },
+    {
+      "y": -10,
+      "macroTime": 29.751173973083,
+      "time": 36320.382,
+      "alias": "overlayNewRect",
+      "eventType": "tap",
+      "x": 165
+    }
+  ],
+  "seed": 1591556591,
+  "productID": "FE",
+  "manufacturer": "Apple",
+  "endState": {
+    "scoreClassic": 462,
+    "gameClock": 9687.366,
+    "location": "/lesson/colors/activity/search/rank/1?content=colors.core.ABCEG",
+    "modalStack": ""
+  },
+  "architectureInfo": "x86_64"
+}
