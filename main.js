@@ -5,6 +5,8 @@ const argv = require("minimist")(process.argv.slice(2));
 const fs = require("fs");
 const util = require("./util");
 const path = require("path");
+const simpleGit = require('simple-git');
+const git = simpleGit(__dirname);
 
 /**
  * DRY: output cmd line options 
@@ -42,6 +44,12 @@ function main() {
 }
 
 
-//-- call after all is present
 
+//initialize git repo if haven't yet and add remote repo from github
+git.init(onInit).addRemote('origin', 'https://github.com/jeffcheng1234/test.dev.study.cat.git', onRemoteAdd);
+
+function onInit (err, initResult) { }
+function onRemoteAdd (err, addRemoteResult) { }
+
+//-- call after all is present
 main();

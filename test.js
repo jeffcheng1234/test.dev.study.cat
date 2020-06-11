@@ -1,8 +1,9 @@
-const util = require("./util");
+const simpleGit = require('simple-git');
+const git = simpleGit(workingDirPath);
 
-
-
-var exist = false;
-var value = "gameplay";
-util.listDir("testFiles", function(file) {exist = exist || value == file;console.log(exist);});
-console.log(exist);
+const simpleGit = require('simple-git');
+const git = simpleGit(); // or git = simpleGit(workingDir);
+git.init(onInit).addRemote('origin', 'git@github.com:steveukx/git-js.git', onRemoteAdd);
+ 
+function onInit (err, initResult) { }
+function onRemoteAdd (err, addRemoteResult) { }
