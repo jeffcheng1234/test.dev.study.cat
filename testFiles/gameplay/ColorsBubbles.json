@@ -1,0 +1,4825 @@
+{
+  "model": "iPad",
+  "platform": "ios",
+  "platformVersion": "10.15.3",
+  "maxTextureSize": 16384,
+  "duration": 44.900722026825,
+  "corona": "2020.3575",
+  "environment": "simulator",
+  "startTime": 1591556311.0893,
+  "targetAppStore": "apple",
+  "startState": {
+    "scoreClassic": 0,
+    "gameClock": 0.0010000000002037,
+    "location": "/lesson/colors/activity/bubbles/rank/classic?content=colors.core.ABCDE",
+    "modalStack": ""
+  },
+  "events": [
+    {
+      "y": 197,
+      "macroTime": 5.190721988678,
+      "time": 16922.991,
+      "phase": "began",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 194,
+      "macroTime": 5.2207219600677,
+      "time": 16950.574,
+      "phase": "moved",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 194,
+      "macroTime": 5.2207219600677,
+      "time": 16952.288,
+      "phase": "moved",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 326
+    },
+    {
+      "y": 194,
+      "macroTime": 5.2207219600677,
+      "time": 16953.101,
+      "phase": "moved",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 326
+    },
+    {
+      "y": 194,
+      "macroTime": 5.230721950531,
+      "time": 16953.936,
+      "phase": "moved",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 326
+    },
+    {
+      "y": 194,
+      "macroTime": 5.2407219409943,
+      "time": 16966.706,
+      "phase": "moved",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 327
+    },
+    {
+      "y": 194,
+      "macroTime": 5.2407219409943,
+      "time": 16969.339,
+      "phase": "moved",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 327
+    },
+    {
+      "y": 194,
+      "macroTime": 5.2507219314575,
+      "time": 16976.232,
+      "phase": "moved",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 327
+    },
+    {
+      "y": 194,
+      "macroTime": 5.2507219314575,
+      "time": 16977.486,
+      "phase": "moved",
+      "alias": "ball_1",
+      "eventType": "touch",
+      "x": 327
+    },
+    {
+      "y": 153,
+      "macroTime": 6.3807220458984,
+      "time": 18110.093,
+      "phase": "moved",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 292
+    },
+    {
+      "y": 153,
+      "macroTime": 6.3907220363617,
+      "time": 18121.116,
+      "phase": "moved",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 292
+    },
+    {
+      "y": 228,
+      "macroTime": 6.9707219600677,
+      "time": 18695.414,
+      "phase": "began",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 142
+    },
+    {
+      "y": 228,
+      "macroTime": 6.980721950531,
+      "time": 18709.368,
+      "phase": "moved",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 228,
+      "macroTime": 6.980721950531,
+      "time": 18710.868,
+      "phase": "moved",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 228,
+      "macroTime": 6.9907219409943,
+      "time": 18721.763,
+      "phase": "moved",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 228,
+      "macroTime": 7.0007219314575,
+      "time": 18723.953,
+      "phase": "moved",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 228,
+      "macroTime": 7.0107221603394,
+      "time": 18739.499,
+      "phase": "moved",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 228,
+      "macroTime": 7.0107221603394,
+      "time": 18740.49,
+      "phase": "moved",
+      "alias": "bubbleFragment_4",
+      "eventType": "touch",
+      "x": 141
+    },
+    {
+      "y": 211,
+      "macroTime": 7.6007220745087,
+      "time": 19324.249,
+      "phase": "began",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 211,
+      "macroTime": 7.6107220649719,
+      "time": 19340.335,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 211,
+      "macroTime": 7.6107220649719,
+      "time": 19341.77,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 211,
+      "macroTime": 7.6307220458984,
+      "time": 19355.566,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 211,
+      "macroTime": 7.650722026825,
+      "time": 19381.165,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 211,
+      "macroTime": 7.6607220172882,
+      "time": 19390.219,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 211,
+      "macroTime": 7.6607220172882,
+      "time": 19392.082,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 212,
+      "macroTime": 7.690721988678,
+      "time": 19414.396,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 212,
+      "macroTime": 7.7007219791412,
+      "time": 19423.519,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 213,
+      "macroTime": 7.7007219791412,
+      "time": 19425.492,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 213,
+      "macroTime": 7.7007219791412,
+      "time": 19427.279,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 213,
+      "macroTime": 7.7107219696045,
+      "time": 19435.379,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 213,
+      "macroTime": 7.7107219696045,
+      "time": 19437.814,
+      "phase": "moved",
+      "alias": "bubbleFragment_2",
+      "eventType": "touch",
+      "x": 180
+    },
+    {
+      "y": 129,
+      "macroTime": 8.6007220745087,
+      "time": 20326.626,
+      "phase": "began",
+      "alias": "ball_5",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.6107220649719,
+      "time": 20340.268,
+      "phase": "moved",
+      "alias": "ball_5",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.6107220649719,
+      "time": 20341.124,
+      "phase": "moved",
+      "alias": "ball_5",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.6407220363617,
+      "time": 20371.338,
+      "phase": "moved",
+      "alias": "bubbleFragment_7",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.650722026825,
+      "time": 20373.744,
+      "phase": "moved",
+      "alias": "bubbleFragment_7",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.6607220172882,
+      "time": 20389.31,
+      "phase": "moved",
+      "alias": "ball_5",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.6607220172882,
+      "time": 20390.599,
+      "phase": "moved",
+      "alias": "ball_5",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.6807219982147,
+      "time": 20410.123,
+      "phase": "moved",
+      "alias": "ball_5",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.690721988678,
+      "time": 20419.879,
+      "phase": "moved",
+      "alias": "ball_5",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 128,
+      "macroTime": 8.690721988678,
+      "time": 20421.983,
+      "phase": "moved",
+      "alias": "ball_5",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 109,
+      "macroTime": 9.2507219314575,
+      "time": 20982.936,
+      "phase": "began",
+      "alias": "bubbleFragment_7",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 109,
+      "macroTime": 9.2607221603394,
+      "time": 20989.946,
+      "phase": "moved",
+      "alias": "bubbleFragment_7",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 109,
+      "macroTime": 9.2607221603394,
+      "time": 20990.767,
+      "phase": "moved",
+      "alias": "bubbleFragment_7",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 109,
+      "macroTime": 9.2807221412659,
+      "time": 21005.86,
+      "phase": "moved",
+      "alias": "bubbleFragment_7",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 109,
+      "macroTime": 9.2807221412659,
+      "time": 21006.686,
+      "phase": "moved",
+      "alias": "bubbleFragment_7",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 70,
+      "macroTime": 10.020722150803,
+      "time": 21749.84,
+      "phase": "began",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.020722150803,
+      "time": 21752.602,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.030722141266,
+      "time": 21755.862,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.030722141266,
+      "time": 21756.628,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.050722122192,
+      "time": 21773.512,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.050722122192,
+      "time": 21779.957,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.060722112656,
+      "time": 21789.15,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.090722084045,
+      "time": 21813.332,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.090722084045,
+      "time": 21822.801,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 71,
+      "macroTime": 10.100722074509,
+      "time": 21823.915,
+      "phase": "moved",
+      "alias": "bubbleFragment_8",
+      "eventType": "touch",
+      "x": 273
+    },
+    {
+      "y": 181,
+      "macroTime": 11.690721988678,
+      "time": 23422.622,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 214
+    },
+    {
+      "y": 181,
+      "macroTime": 11.700721979141,
+      "time": 23423.44,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 214
+    },
+    {
+      "y": 181,
+      "macroTime": 11.700721979141,
+      "time": 23429.53,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 214
+    },
+    {
+      "y": 181,
+      "macroTime": 11.710721969604,
+      "time": 23438.496,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 214
+    },
+    {
+      "y": 181,
+      "macroTime": 11.710721969604,
+      "time": 23439.14,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 214
+    },
+    {
+      "y": 181,
+      "macroTime": 11.720721960068,
+      "time": 23446.392,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 214
+    },
+    {
+      "y": 181,
+      "macroTime": 11.730721950531,
+      "time": 23454.415,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.730721950531,
+      "time": 23455.212,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.750721931458,
+      "time": 23475.488,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.750721931458,
+      "time": 23480.493,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.760722160339,
+      "time": 23488.182,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.770722150803,
+      "time": 23496.637,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.780722141266,
+      "time": 23503.781,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.800722122192,
+      "time": 23525.477,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.800722122192,
+      "time": 23526.96,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.810722112656,
+      "time": 23537.087,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.820722103119,
+      "time": 23543.266,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.820722103119,
+      "time": 23552.259,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.830722093582,
+      "time": 23559.91,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.850722074509,
+      "time": 23582.379,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 181,
+      "macroTime": 11.860722064972,
+      "time": 23584.047,
+      "phase": "ended",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 213
+    },
+    {
+      "y": 99,
+      "macroTime": 12.380722045898,
+      "time": 24113.085,
+      "phase": "began",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.410722017288,
+      "time": 24134.117,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.410722017288,
+      "time": 24135.266,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.410722017288,
+      "time": 24142.213,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.430721998215,
+      "time": 24160.98,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.440721988678,
+      "time": 24170.957,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.450721979141,
+      "time": 24174.731,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.460721969604,
+      "time": 24192.348,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.480721950531,
+      "time": 24204.368,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.480721950531,
+      "time": 24205.805,
+      "phase": "moved",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 98,
+      "macroTime": 12.500721931458,
+      "time": 24226.281,
+      "phase": "ended",
+      "alias": "ball_9",
+      "eventType": "touch",
+      "x": 229
+    },
+    {
+      "y": 73,
+      "macroTime": 13.260722160339,
+      "time": 24984.176,
+      "phase": "began",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 321
+    },
+    {
+      "y": 72,
+      "macroTime": 13.260722160339,
+      "time": 24987.99,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 321
+    },
+    {
+      "y": 72,
+      "macroTime": 13.260722160339,
+      "time": 24990.315,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 321
+    },
+    {
+      "y": 72,
+      "macroTime": 13.280722141266,
+      "time": 25009.009,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 322
+    },
+    {
+      "y": 72,
+      "macroTime": 13.280722141266,
+      "time": 25009.762,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 322
+    },
+    {
+      "y": 72,
+      "macroTime": 13.290722131729,
+      "time": 25021.931,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 322
+    },
+    {
+      "y": 72,
+      "macroTime": 13.290722131729,
+      "time": 25022.848,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 322
+    },
+    {
+      "y": 72,
+      "macroTime": 13.300722122192,
+      "time": 25023.564,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 322
+    },
+    {
+      "y": 72,
+      "macroTime": 13.320722103119,
+      "time": 25047.248,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 322
+    },
+    {
+      "y": 72,
+      "macroTime": 13.330722093582,
+      "time": 25056.298,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.330722093582,
+      "time": 25057.572,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.350722074509,
+      "time": 25076.481,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.360722064972,
+      "time": 25087.846,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.360722064972,
+      "time": 25089.123,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.380722045898,
+      "time": 25109.427,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.380722045898,
+      "time": 25112.487,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.390722036362,
+      "time": 25121.712,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.400722026825,
+      "time": 25129.784,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.410722017288,
+      "time": 25140.873,
+      "phase": "moved",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 72,
+      "macroTime": 13.430721998215,
+      "time": 25159.501,
+      "phase": "ended",
+      "alias": "bubbleFragment_11",
+      "eventType": "touch",
+      "x": 323
+    },
+    {
+      "y": 40,
+      "macroTime": 14.030722141266,
+      "time": 25760.67,
+      "phase": "began",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.050722122192,
+      "time": 25773.36,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.060722112656,
+      "time": 25789.882,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.060722112656,
+      "time": 25790.977,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.080722093582,
+      "time": 25807.042,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.080722093582,
+      "time": 25807.801,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.100722074509,
+      "time": 25824.481,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.100722074509,
+      "time": 25825.263,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.120722055435,
+      "time": 25845.615,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.140722036362,
+      "time": 25867.708,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 40,
+      "macroTime": 14.140722036362,
+      "time": 25872.473,
+      "phase": "moved",
+      "alias": "bubbleFragment_12",
+      "eventType": "touch",
+      "x": 302
+    },
+    {
+      "y": 177,
+      "macroTime": 15.510722160339,
+      "time": 27233.318,
+      "phase": "began",
+      "alias": "ball_14",
+      "eventType": "touch",
+      "x": 133
+    },
+    {
+      "y": 178,
+      "macroTime": 15.510722160339,
+      "time": 27242.317,
+      "phase": "moved",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 131
+    },
+    {
+      "y": 178,
+      "macroTime": 15.520722150803,
+      "time": 27247.009,
+      "phase": "moved",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 131
+    },
+    {
+      "y": 178,
+      "macroTime": 15.530722141266,
+      "time": 27256.837,
+      "phase": "moved",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 131
+    },
+    {
+      "y": 178,
+      "macroTime": 15.530722141266,
+      "time": 27258.433,
+      "phase": "moved",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 131
+    },
+    {
+      "y": 178,
+      "macroTime": 15.530722141266,
+      "time": 27259.676,
+      "phase": "moved",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 131
+    },
+    {
+      "y": 178,
+      "macroTime": 15.550722122192,
+      "time": 27280.995,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.570722103119,
+      "time": 27301.757,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.580722093582,
+      "time": 27303.938,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.580722093582,
+      "time": 27306.056,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.580722093582,
+      "time": 27312.959,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.590722084045,
+      "time": 27322.279,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.600722074509,
+      "time": 27331.52,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.620722055435,
+      "time": 27343.678,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.620722055435,
+      "time": 27345.879,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.630722045898,
+      "time": 27354.198,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.630722045898,
+      "time": 27360.417,
+      "phase": "moved",
+      "alias": "ball_14",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.650722026825,
+      "time": 27374.578,
+      "phase": "moved",
+      "alias": "ball_14",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 178,
+      "macroTime": 15.650722026825,
+      "time": 27375.94,
+      "phase": "moved",
+      "alias": "ball_14",
+      "eventType": "touch",
+      "x": 130
+    },
+    {
+      "y": 161,
+      "macroTime": 16.590722084045,
+      "time": 28317.128,
+      "phase": "began",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 77
+    },
+    {
+      "y": 162,
+      "macroTime": 16.590722084045,
+      "time": 28320.057,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 76
+    },
+    {
+      "y": 163,
+      "macroTime": 16.590722084045,
+      "time": 28322.496,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 76
+    },
+    {
+      "y": 163,
+      "macroTime": 16.600722074509,
+      "time": 28323.265,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 76
+    },
+    {
+      "y": 163,
+      "macroTime": 16.610722064972,
+      "time": 28341.309,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.630722045898,
+      "time": 28355.521,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.630722045898,
+      "time": 28356.242,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.650722026825,
+      "time": 28380.264,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.650722026825,
+      "time": 28381.133,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.680721998215,
+      "time": 28405.479,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.690721988678,
+      "time": 28421.556,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.710721969604,
+      "time": 28433.355,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.720721960068,
+      "time": 28445.331,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.720721960068,
+      "time": 28445.985,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 163,
+      "macroTime": 16.740721940994,
+      "time": 28470.631,
+      "phase": "moved",
+      "alias": "bubbleFragment_16",
+      "eventType": "touch",
+      "x": 75
+    },
+    {
+      "y": 147,
+      "macroTime": 17.320722103119,
+      "time": 29051.288,
+      "phase": "began",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 282
+    },
+    {
+      "y": 147,
+      "macroTime": 17.330722093582,
+      "time": 29054.164,
+      "phase": "moved",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 282
+    },
+    {
+      "y": 147,
+      "macroTime": 17.350722074509,
+      "time": 29079.604,
+      "phase": "moved",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 282
+    },
+    {
+      "y": 147,
+      "macroTime": 17.380722045898,
+      "time": 29104.432,
+      "phase": "moved",
+      "alias": "bubbleFragment_17",
+      "eventType": "touch",
+      "x": 282
+    },
+    {
+      "y": 229,
+      "macroTime": 17.780722141266,
+      "time": 29512.859,
+      "phase": "began",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 234
+    },
+    {
+      "y": 232,
+      "macroTime": 17.800722122192,
+      "time": 29523.844,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 233
+    },
+    {
+      "y": 234,
+      "macroTime": 17.800722122192,
+      "time": 29524.988,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 233
+    },
+    {
+      "y": 234,
+      "macroTime": 17.800722122192,
+      "time": 29525.914,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 233
+    },
+    {
+      "y": 235,
+      "macroTime": 17.800722122192,
+      "time": 29528.984,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 236,
+      "macroTime": 17.810722112656,
+      "time": 29539.506,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 237,
+      "macroTime": 17.810722112656,
+      "time": 29542.686,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 237,
+      "macroTime": 17.820722103119,
+      "time": 29543.597,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 238,
+      "macroTime": 17.830722093582,
+      "time": 29557.095,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 238,
+      "macroTime": 17.830722093582,
+      "time": 29558.264,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 238,
+      "macroTime": 17.830722093582,
+      "time": 29559.121,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 238,
+      "macroTime": 17.830722093582,
+      "time": 29559.919,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 238,
+      "macroTime": 17.850722074509,
+      "time": 29575.978,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 238,
+      "macroTime": 17.850722074509,
+      "time": 29577.019,
+      "phase": "moved",
+      "alias": "bubbleFragment_15",
+      "eventType": "touch",
+      "x": 232
+    },
+    {
+      "y": 137,
+      "macroTime": 18.650722026825,
+      "time": 30382.267,
+      "phase": "began",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 337
+    },
+    {
+      "y": 137,
+      "macroTime": 18.670722007751,
+      "time": 30398.705,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.670722007751,
+      "time": 30399.861,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.680721998215,
+      "time": 30412.093,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.710721969604,
+      "time": 30433.126,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.710721969604,
+      "time": 30433.967,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.710721969604,
+      "time": 30440.122,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.730721950531,
+      "time": 30457.394,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.750721931458,
+      "time": 30473.262,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.760722160339,
+      "time": 30485.667,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.760722160339,
+      "time": 30488.743,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.780722141266,
+      "time": 30505.428,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.790722131729,
+      "time": 30519.059,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.790722131729,
+      "time": 30522.384,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.810722112656,
+      "time": 30539.714,
+      "phase": "moved",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 137,
+      "macroTime": 18.810722112656,
+      "time": 30540.497,
+      "phase": "ended",
+      "alias": "ball_19",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 88,
+      "macroTime": 20.060722112656,
+      "time": 31785.523,
+      "phase": "began",
+      "alias": "ball_18",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 87,
+      "macroTime": 20.060722112656,
+      "time": 31791.722,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 87,
+      "macroTime": 20.060722112656,
+      "time": 31792.505,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 87,
+      "macroTime": 20.070722103119,
+      "time": 31793.167,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 85,
+      "macroTime": 20.080722093582,
+      "time": 31807.669,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 85,
+      "macroTime": 20.080722093582,
+      "time": 31808.408,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 85,
+      "macroTime": 20.080722093582,
+      "time": 31808.976,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 84,
+      "macroTime": 20.090722084045,
+      "time": 31822.971,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 84,
+      "macroTime": 20.100722074509,
+      "time": 31824.005,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 83,
+      "macroTime": 20.100722074509,
+      "time": 31824.752,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 83,
+      "macroTime": 20.100722074509,
+      "time": 31825.423,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 81,
+      "macroTime": 20.120722055435,
+      "time": 31844.09,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 81,
+      "macroTime": 20.120722055435,
+      "time": 31846.733,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 81,
+      "macroTime": 20.130722045898,
+      "time": 31855.673,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.130722045898,
+      "time": 31857.427,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.150722026825,
+      "time": 31875.059,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.150722026825,
+      "time": 31875.914,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.160722017288,
+      "time": 31888.429,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.160722017288,
+      "time": 31889.239,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.180721998215,
+      "time": 31909.112,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.190721988678,
+      "time": 31922.081,
+      "phase": "moved",
+      "alias": "bubbleFragment_20",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.210721969604,
+      "time": 31942.982,
+      "phase": "moved",
+      "alias": "bubbleFragment_20",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.220721960068,
+      "time": 31944.093,
+      "phase": "moved",
+      "alias": "bubbleFragment_20",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 80,
+      "macroTime": 20.230721950531,
+      "time": 31954.689,
+      "phase": "ended",
+      "alias": "bubbleFragment_20",
+      "eventType": "touch",
+      "x": 128
+    },
+    {
+      "y": 51,
+      "macroTime": 20.690721988678,
+      "time": 32417.127,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 222
+    },
+    {
+      "y": 51,
+      "macroTime": 20.690721988678,
+      "time": 32422.397,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 223
+    },
+    {
+      "y": 51,
+      "macroTime": 20.700721979141,
+      "time": 32423.187,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 223
+    },
+    {
+      "y": 51,
+      "macroTime": 20.710721969604,
+      "time": 32438.61,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 224
+    },
+    {
+      "y": 51,
+      "macroTime": 20.710721969604,
+      "time": 32439.475,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 225
+    },
+    {
+      "y": 106,
+      "macroTime": 21.170722007751,
+      "time": 32900.683,
+      "phase": "began",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 326
+    },
+    {
+      "y": 107,
+      "macroTime": 21.180721998215,
+      "time": 32903.491,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 327
+    },
+    {
+      "y": 108,
+      "macroTime": 21.180721998215,
+      "time": 32907.378,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 329
+    },
+    {
+      "y": 108,
+      "macroTime": 21.180721998215,
+      "time": 32908.105,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 329
+    },
+    {
+      "y": 108,
+      "macroTime": 21.200721979141,
+      "time": 32923.997,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 331
+    },
+    {
+      "y": 108,
+      "macroTime": 21.200721979141,
+      "time": 32924.907,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 331
+    },
+    {
+      "y": 108,
+      "macroTime": 21.210721969604,
+      "time": 32938.003,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 332
+    },
+    {
+      "y": 108,
+      "macroTime": 21.210721969604,
+      "time": 32940,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 334
+    },
+    {
+      "y": 108,
+      "macroTime": 21.240721940994,
+      "time": 32963.462,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 337
+    },
+    {
+      "y": 108,
+      "macroTime": 21.240721940994,
+      "time": 32972.932,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 108,
+      "macroTime": 21.270722150803,
+      "time": 32996.699,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 338
+    },
+    {
+      "y": 108,
+      "macroTime": 21.280722141266,
+      "time": 33005.875,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 339
+    },
+    {
+      "y": 108,
+      "macroTime": 21.280722141266,
+      "time": 33007.058,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 339
+    },
+    {
+      "y": 108,
+      "macroTime": 21.280722141266,
+      "time": 33007.75,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 339
+    },
+    {
+      "y": 109,
+      "macroTime": 21.300722122192,
+      "time": 33029.775,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 340
+    },
+    {
+      "y": 109,
+      "macroTime": 21.310722112656,
+      "time": 33037.866,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 340
+    },
+    {
+      "y": 109,
+      "macroTime": 21.310722112656,
+      "time": 33038.95,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 340
+    },
+    {
+      "y": 109,
+      "macroTime": 21.310722112656,
+      "time": 33039.672,
+      "phase": "moved",
+      "alias": "bubbleFragment_21",
+      "eventType": "touch",
+      "x": 340
+    },
+    {
+      "y": 64,
+      "macroTime": 21.870722055435,
+      "time": 33599.081,
+      "phase": "began",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.870722055435,
+      "time": 33602.976,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.900722026825,
+      "time": 33626.668,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.910722017288,
+      "time": 33639.196,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.910722017288,
+      "time": 33642.82,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.930721998215,
+      "time": 33656.466,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.930721998215,
+      "time": 33659.035,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.950721979141,
+      "time": 33678.928,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.960721969604,
+      "time": 33689.036,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.960721969604,
+      "time": 33691.177,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.980721950531,
+      "time": 33708.183,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.980721950531,
+      "time": 33708.955,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.980721950531,
+      "time": 33709.552,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.990721940994,
+      "time": 33721.088,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 21.990721940994,
+      "time": 33722.89,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 22.000721931458,
+      "time": 33723.997,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 22.000721931458,
+      "time": 33724.682,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 64,
+      "macroTime": 22.010722160339,
+      "time": 33741.541,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 65,
+      "macroTime": 22.010722160339,
+      "time": 33742.39,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 65,
+      "macroTime": 22.010722160339,
+      "time": 33743.028,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 65,
+      "macroTime": 22.030722141266,
+      "time": 33754.972,
+      "phase": "moved",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 65,
+      "macroTime": 22.030722141266,
+      "time": 33757.913,
+      "phase": "ended",
+      "alias": "bubbleFragment_22",
+      "eventType": "touch",
+      "x": 318
+    },
+    {
+      "y": 132,
+      "macroTime": 23.260722160339,
+      "time": 34987.295,
+      "phase": "began",
+      "alias": "ball_23",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.260722160339,
+      "time": 34992.522,
+      "phase": "moved",
+      "alias": "bubbleFragment_27",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.270722150803,
+      "time": 34993.505,
+      "phase": "moved",
+      "alias": "bubbleFragment_27",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.290722131729,
+      "time": 35017.064,
+      "phase": "moved",
+      "alias": "bubbleFragment_27",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.300722122192,
+      "time": 35025.767,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.320722103119,
+      "time": 35047.813,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.320722103119,
+      "time": 35049.013,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.330722093582,
+      "time": 35056.933,
+      "phase": "moved",
+      "alias": "ball_23",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.350722074509,
+      "time": 35079.344,
+      "phase": "moved",
+      "alias": "ball_23",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.360722064972,
+      "time": 35086.353,
+      "phase": "moved",
+      "alias": "ball_23",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.360722064972,
+      "time": 35089.537,
+      "phase": "moved",
+      "alias": "ball_23",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.380722045898,
+      "time": 35107.427,
+      "phase": "moved",
+      "alias": "ball_23",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.390722036362,
+      "time": 35120.075,
+      "phase": "moved",
+      "alias": "ball_24",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.390722036362,
+      "time": 35121.596,
+      "phase": "moved",
+      "alias": "ball_24",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.410722017288,
+      "time": 35141.75,
+      "phase": "moved",
+      "alias": "ball_24",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 132,
+      "macroTime": 23.410722017288,
+      "time": 35142.811,
+      "phase": "ended",
+      "alias": "ball_24",
+      "eventType": "touch",
+      "x": 325
+    },
+    {
+      "y": 104,
+      "macroTime": 24.030722141266,
+      "time": 35755.497,
+      "phase": "began",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 104,
+      "macroTime": 24.030722141266,
+      "time": 35758.24,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 105,
+      "macroTime": 24.040722131729,
+      "time": 35773.026,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 105,
+      "macroTime": 24.050722122192,
+      "time": 35773.928,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 105,
+      "macroTime": 24.050722122192,
+      "time": 35777.083,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 105,
+      "macroTime": 24.050722122192,
+      "time": 35779.25,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 106,
+      "macroTime": 24.060722112656,
+      "time": 35788.869,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 106,
+      "macroTime": 24.060722112656,
+      "time": 35789.643,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 106,
+      "macroTime": 24.070722103119,
+      "time": 35793.44,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 106,
+      "macroTime": 24.070722103119,
+      "time": 35799.277,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 107,
+      "macroTime": 24.080722093582,
+      "time": 35812.571,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 108,
+      "macroTime": 24.090722084045,
+      "time": 35821.717,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 108,
+      "macroTime": 24.100722074509,
+      "time": 35823.081,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 108,
+      "macroTime": 24.100722074509,
+      "time": 35825.674,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 108,
+      "macroTime": 24.100722074509,
+      "time": 35826.339,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 108,
+      "macroTime": 24.120722055435,
+      "time": 35843.405,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 108,
+      "macroTime": 24.120722055435,
+      "time": 35845.755,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 109,
+      "macroTime": 24.130722045898,
+      "time": 35855.89,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 109,
+      "macroTime": 24.130722045898,
+      "time": 35857.798,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 109,
+      "macroTime": 24.130722045898,
+      "time": 35858.604,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 109,
+      "macroTime": 24.150722026825,
+      "time": 35874.576,
+      "phase": "moved",
+      "alias": "bubbleFragment_26",
+      "eventType": "touch",
+      "x": 308
+    },
+    {
+      "y": 78,
+      "macroTime": 26.800722122192,
+      "time": 38528.909,
+      "phase": "ended",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 24
+    },
+    {
+      "y": 51,
+      "macroTime": 27.150722026825,
+      "time": 38875.91,
+      "phase": "began",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 150
+    },
+    {
+      "y": 51,
+      "macroTime": 27.170722007751,
+      "time": 38896.255,
+      "phase": "moved",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 153
+    },
+    {
+      "y": 51,
+      "macroTime": 27.170722007751,
+      "time": 38897.876,
+      "phase": "moved",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 153
+    },
+    {
+      "y": 51,
+      "macroTime": 27.170722007751,
+      "time": 38898.842,
+      "phase": "moved",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 154
+    },
+    {
+      "y": 51,
+      "macroTime": 27.180721998215,
+      "time": 38909.817,
+      "phase": "moved",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 154
+    },
+    {
+      "y": 51,
+      "macroTime": 27.190721988678,
+      "time": 38919.34,
+      "phase": "moved",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 154
+    },
+    {
+      "y": 51,
+      "macroTime": 27.210721969604,
+      "time": 38942.919,
+      "phase": "moved",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 154
+    },
+    {
+      "y": 51,
+      "macroTime": 27.270722150803,
+      "time": 38999.525,
+      "phase": "moved",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 154
+    },
+    {
+      "y": 51,
+      "macroTime": 27.280722141266,
+      "time": 39005.246,
+      "phase": "moved",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 154
+    },
+    {
+      "y": 51,
+      "macroTime": 27.290722131729,
+      "time": 39019.791,
+      "phase": "ended",
+      "alias": "ball_29",
+      "eventType": "touch",
+      "x": 154
+    },
+    {
+      "y": 41,
+      "macroTime": 27.990721940994,
+      "time": 39717.301,
+      "phase": "began",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 27.990721940994,
+      "time": 39717.301,
+      "phase": "began",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 27.990721940994,
+      "time": 39718.303,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 27.990721940994,
+      "time": 39718.303,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.000721931458,
+      "time": 39724.064,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.000721931458,
+      "time": 39724.064,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.030722141266,
+      "time": 39753.863,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.030722141266,
+      "time": 39753.863,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.030722141266,
+      "time": 39758.029,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.030722141266,
+      "time": 39758.029,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.040722131729,
+      "time": 39770.105,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.040722131729,
+      "time": 39770.105,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.040722131729,
+      "time": 39772.27,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.040722131729,
+      "time": 39772.27,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.060722112656,
+      "time": 39792.525,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.060722112656,
+      "time": 39792.525,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.080722093582,
+      "time": 39804.14,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.080722093582,
+      "time": 39804.14,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.100722074509,
+      "time": 39826.568,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.100722074509,
+      "time": 39826.568,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.100722074509,
+      "time": 39830.163,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.100722074509,
+      "time": 39830.163,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.120722055435,
+      "time": 39851.925,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.120722055435,
+      "time": 39851.925,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.130722045898,
+      "time": 39854.747,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.130722045898,
+      "time": 39854.747,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.130722045898,
+      "time": 39861.979,
+      "phase": "moved",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.130722045898,
+      "time": 39861.979,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.140722036362,
+      "time": 39870.41,
+      "phase": "ended",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 41,
+      "macroTime": 28.140722036362,
+      "time": 39870.41,
+      "phase": "ended",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 71
+    },
+    {
+      "y": 49,
+      "macroTime": 28.620722055435,
+      "time": 40349.706,
+      "phase": "began",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 116
+    },
+    {
+      "y": 50,
+      "macroTime": 28.620722055435,
+      "time": 40352.641,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 116
+    },
+    {
+      "y": 50,
+      "macroTime": 28.630722045898,
+      "time": 40354.248,
+      "phase": "moved",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 117
+    },
+    {
+      "y": 50,
+      "macroTime": 28.730721950531,
+      "time": 40462.565,
+      "phase": "ended",
+      "alias": "ball_28",
+      "eventType": "touch",
+      "x": 117
+    },
+    {
+      "y": 99,
+      "macroTime": 29.870722055435,
+      "time": 41601.312,
+      "phase": "began",
+      "alias": "ball_30",
+      "eventType": "touch",
+      "x": 89
+    },
+    {
+      "y": 99,
+      "macroTime": 29.880722045898,
+      "time": 41608.417,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.880722045898,
+      "time": 41609.329,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.900722026825,
+      "time": 41624.544,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.910722017288,
+      "time": 41637.314,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.910722017288,
+      "time": 41639.319,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.940721988678,
+      "time": 41663.962,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.940721988678,
+      "time": 41672.926,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.950721979141,
+      "time": 41673.797,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.970721960068,
+      "time": 41694.012,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.980721950531,
+      "time": 41704.399,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 29.980721950531,
+      "time": 41705.597,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 30.000721931458,
+      "time": 41726.748,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 30.010722160339,
+      "time": 41738.108,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 30.010722160339,
+      "time": 41739.089,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 30.030722141266,
+      "time": 41758.777,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 30.030722141266,
+      "time": 41762.402,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 30.040722131729,
+      "time": 41772.639,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 99,
+      "macroTime": 30.060722112656,
+      "time": 41791.55,
+      "phase": "ended",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 88
+    },
+    {
+      "y": 122,
+      "macroTime": 30.470721960068,
+      "time": 42199.058,
+      "phase": "began",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.470721960068,
+      "time": 42201.472,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.480721950531,
+      "time": 42205.024,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.480721950531,
+      "time": 42205.865,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.500721931458,
+      "time": 42223.904,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.500721931458,
+      "time": 42224.64,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.510722160339,
+      "time": 42237.827,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.510722160339,
+      "time": 42238.65,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.540722131729,
+      "time": 42263.001,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.560722112656,
+      "time": 42283.292,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.560722112656,
+      "time": 42286.629,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.570722103119,
+      "time": 42293.983,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.580722093582,
+      "time": 42305.922,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 123,
+      "macroTime": 30.590722084045,
+      "time": 42312.982,
+      "phase": "moved",
+      "alias": "bubbleFragment_32",
+      "eventType": "touch",
+      "x": 111
+    },
+    {
+      "y": 126,
+      "macroTime": 30.970721960068,
+      "time": 42700.225,
+      "phase": "began",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 269
+    },
+    {
+      "y": 126,
+      "macroTime": 30.980721950531,
+      "time": 42702.986,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 30.980721950531,
+      "time": 42706.472,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 30.980721950531,
+      "time": 42707.165,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.000721931458,
+      "time": 42731.899,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.010722160339,
+      "time": 42739.879,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.030722141266,
+      "time": 42761.955,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.040722131729,
+      "time": 42763.446,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.060722112656,
+      "time": 42784.655,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.060722112656,
+      "time": 42788.382,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.080722093582,
+      "time": 42805.016,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.080722093582,
+      "time": 42806.333,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.100722074509,
+      "time": 42824.995,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.100722074509,
+      "time": 42829.478,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.110722064972,
+      "time": 42837.765,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 126,
+      "macroTime": 31.110722064972,
+      "time": 42838.812,
+      "phase": "moved",
+      "alias": "bubbleFragment_33",
+      "eventType": "touch",
+      "x": 270
+    },
+    {
+      "y": 125,
+      "macroTime": 33.160722017288,
+      "time": 44883.422,
+      "phase": "began",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 221
+    },
+    {
+      "y": 125,
+      "macroTime": 33.160722017288,
+      "time": 44886.396,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.160722017288,
+      "time": 44889.381,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.180721998215,
+      "time": 44905.346,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.180721998215,
+      "time": 44907.35,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.190721988678,
+      "time": 44921.066,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.190721988678,
+      "time": 44922.82,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.210721969604,
+      "time": 44942.53,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.230721950531,
+      "time": 44954.877,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.250721931458,
+      "time": 44974.337,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.260722160339,
+      "time": 44988.146,
+      "phase": "moved",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 125,
+      "macroTime": 33.280722141266,
+      "time": 45007.608,
+      "phase": "ended",
+      "alias": "ball_35",
+      "eventType": "touch",
+      "x": 220
+    },
+    {
+      "y": 71,
+      "macroTime": 34.680721998215,
+      "time": 46403.581,
+      "phase": "began",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.690721988678,
+      "time": 46415.113,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.700721979141,
+      "time": 46423.135,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.700721979141,
+      "time": 46426.262,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.710721969604,
+      "time": 46437.127,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.710721969604,
+      "time": 46442.587,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.730721950531,
+      "time": 46457.787,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.730721950531,
+      "time": 46459.42,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.740721940994,
+      "time": 46469.81,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.750721931458,
+      "time": 46474.861,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.760722160339,
+      "time": 46490.205,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.760722160339,
+      "time": 46492.403,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.770722150803,
+      "time": 46493.234,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.780722141266,
+      "time": 46503.619,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.780722141266,
+      "time": 46504.967,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 362
+    },
+    {
+      "y": 70,
+      "macroTime": 34.780722141266,
+      "time": 46506.733,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 361
+    },
+    {
+      "y": 70,
+      "macroTime": 34.780722141266,
+      "time": 46507.456,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 361
+    },
+    {
+      "y": 70,
+      "macroTime": 34.800722122192,
+      "time": 46524.106,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 361
+    },
+    {
+      "y": 70,
+      "macroTime": 34.800722122192,
+      "time": 46525.074,
+      "phase": "moved",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 361
+    },
+    {
+      "y": 70,
+      "macroTime": 34.800722122192,
+      "time": 46525.695,
+      "phase": "ended",
+      "alias": "ball_36",
+      "eventType": "touch",
+      "x": 361
+    },
+    {
+      "y": 38,
+      "macroTime": 36.070722103119,
+      "time": 47796.53,
+      "phase": "began",
+      "alias": "ball_34",
+      "eventType": "touch",
+      "x": 384
+    },
+    {
+      "y": 38,
+      "macroTime": 36.080722093582,
+      "time": 47809.29,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.080722093582,
+      "time": 47810.709,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.090722084045,
+      "time": 47813.027,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.100722074509,
+      "time": 47824.074,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.100722074509,
+      "time": 47824.982,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.100722074509,
+      "time": 47825.652,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.110722064972,
+      "time": 47838.916,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.110722064972,
+      "time": 47839.654,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.110722064972,
+      "time": 47840.84,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.130722045898,
+      "time": 47860.658,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.140722036362,
+      "time": 47863.192,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 383
+    },
+    {
+      "y": 38,
+      "macroTime": 36.140722036362,
+      "time": 47872.74,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 38,
+      "macroTime": 36.150722026825,
+      "time": 47874.168,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 38,
+      "macroTime": 36.190721988678,
+      "time": 47916.272,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 38,
+      "macroTime": 36.190721988678,
+      "time": 47917.328,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 38,
+      "macroTime": 36.190721988678,
+      "time": 47918.369,
+      "phase": "ended",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 382
+    },
+    {
+      "y": 44,
+      "macroTime": 36.940721988678,
+      "time": 48667.278,
+      "phase": "began",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 375
+    },
+    {
+      "y": 45,
+      "macroTime": 36.940721988678,
+      "time": 48669.758,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 45,
+      "macroTime": 36.950721979141,
+      "time": 48673.615,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 45,
+      "macroTime": 36.950721979141,
+      "time": 48674.399,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 36.960721969604,
+      "time": 48690.786,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 36.960721969604,
+      "time": 48691.638,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 36.980721950531,
+      "time": 48705.131,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 36.980721950531,
+      "time": 48705.954,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 37.000721931458,
+      "time": 48729.906,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 37.010722160339,
+      "time": 48738.334,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 37.030722141266,
+      "time": 48760.534,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 37.040722131729,
+      "time": 48764.14,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 37.050722122192,
+      "time": 48773.546,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 37.070722103119,
+      "time": 48796.498,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 37.070722103119,
+      "time": 48797.575,
+      "phase": "moved",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 46,
+      "macroTime": 37.090722084045,
+      "time": 48816.519,
+      "phase": "ended",
+      "alias": "bubbleFragment_39",
+      "eventType": "touch",
+      "x": 376
+    },
+    {
+      "y": 92,
+      "macroTime": 39.110722064972,
+      "time": 50833.151,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.110722064972,
+      "time": 50840.712,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.130722045898,
+      "time": 50853.582,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.130722045898,
+      "time": 50856.586,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.150722026825,
+      "time": 50879.293,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.160722017288,
+      "time": 50886.523,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.180721998215,
+      "time": 50912.551,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.190721988678,
+      "time": 50919.689,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.190721988678,
+      "time": 50921.54,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.210721969604,
+      "time": 50940.213,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 92,
+      "macroTime": 39.230721950531,
+      "time": 50952.84,
+      "phase": "ended",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 236
+    },
+    {
+      "y": 83,
+      "macroTime": 39.550722122192,
+      "time": 51281.594,
+      "phase": "began",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 282
+    },
+    {
+      "y": 82,
+      "macroTime": 39.560722112656,
+      "time": 51285.538,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 284
+    },
+    {
+      "y": 82,
+      "macroTime": 39.560722112656,
+      "time": 51286.575,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 285
+    },
+    {
+      "y": 82,
+      "macroTime": 39.560722112656,
+      "time": 51287.313,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 285
+    },
+    {
+      "y": 82,
+      "macroTime": 39.570722103119,
+      "time": 51293.962,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 286
+    },
+    {
+      "y": 82,
+      "macroTime": 39.580722093582,
+      "time": 51304.395,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.580722093582,
+      "time": 51305.655,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.580722093582,
+      "time": 51309.631,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.590722084045,
+      "time": 51320.082,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.590722084045,
+      "time": 51321.423,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.600722074509,
+      "time": 51326.04,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.610722064972,
+      "time": 51340.856,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.630722045898,
+      "time": 51358.709,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.650722026825,
+      "time": 51375.27,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.660722017288,
+      "time": 51390.443,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.680721998215,
+      "time": 51408.322,
+      "phase": "moved",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 82,
+      "macroTime": 39.680721998215,
+      "time": 51409.151,
+      "phase": "ended",
+      "alias": "ball_40",
+      "eventType": "touch",
+      "x": 287
+    },
+    {
+      "y": 66,
+      "macroTime": 40.830722093582,
+      "time": 52557.054,
+      "phase": "began",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 366
+    },
+    {
+      "y": 66,
+      "macroTime": 40.830722093582,
+      "time": 52559.625,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.840722084045,
+      "time": 52571.024,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.860722064972,
+      "time": 52587.328,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.860722064972,
+      "time": 52588.095,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.910722017288,
+      "time": 52633.344,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.910722017288,
+      "time": 52634.301,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.910722017288,
+      "time": 52637.159,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.920722007751,
+      "time": 52645.253,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.930721998215,
+      "time": 52654.621,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.930721998215,
+      "time": 52659.634,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.950721979141,
+      "time": 52674.513,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.950721979141,
+      "time": 52676.232,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.960721969604,
+      "time": 52688.033,
+      "phase": "moved",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 66,
+      "macroTime": 40.970721960068,
+      "time": 52693.735,
+      "phase": "ended",
+      "alias": "ball_41",
+      "eventType": "touch",
+      "x": 367
+    },
+    {
+      "y": 43,
+      "macroTime": 41.880722045898,
+      "time": 53607.977,
+      "phase": "began",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.890722036362,
+      "time": 53621.212,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.910722017288,
+      "time": 53641.846,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.930721998215,
+      "time": 53652.853,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.930721998215,
+      "time": 53654.414,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.950721979141,
+      "time": 53673.82,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.960721969604,
+      "time": 53686.757,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.960721969604,
+      "time": 53688.012,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.980721950531,
+      "time": 53708.725,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.980721950531,
+      "time": 53712.031,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 41.990721940994,
+      "time": 53719.797,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.000721931458,
+      "time": 53726.564,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.010722160339,
+      "time": 53741.103,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.010722160339,
+      "time": 53742.284,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.030722141266,
+      "time": 53752.902,
+      "phase": "ended",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.110722064972,
+      "time": 53833.011,
+      "phase": "began",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.110722064972,
+      "time": 53839.843,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.130722045898,
+      "time": 53855.482,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.150722026825,
+      "time": 53877,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.160722017288,
+      "time": 53886.61,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.160722017288,
+      "time": 53887.641,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.180721998215,
+      "time": 53906.876,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.190721988678,
+      "time": 53913.118,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.190721988678,
+      "time": 53920.644,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.210721969604,
+      "time": 53941.891,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.220721960068,
+      "time": 53945.583,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.230721950531,
+      "time": 53953.641,
+      "phase": "ended",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.320722103119,
+      "time": 54051.108,
+      "phase": "began",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.330722093582,
+      "time": 54058.489,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.350722074509,
+      "time": 54074.356,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.360722064972,
+      "time": 54089.352,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.360722064972,
+      "time": 54090.907,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.370722055435,
+      "time": 54102.41,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.380722045898,
+      "time": 54106.749,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.400722026825,
+      "time": 54125.788,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.410722017288,
+      "time": 54135.726,
+      "phase": "moved",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": 43,
+      "macroTime": 42.410722017288,
+      "time": 54139.617,
+      "phase": "ended",
+      "alias": "ball_42",
+      "eventType": "touch",
+      "x": 230
+    },
+    {
+      "y": -17,
+      "macroTime": 44.900722026825,
+      "time": 56624.854,
+      "alias": "overlayNewRect",
+      "eventType": "tap",
+      "x": 169
+    }
+  ],
+  "seed": 1591556311,
+  "productID": "FE",
+  "manufacturer": "Apple",
+  "endState": {
+    "scoreClassic": 1250,
+    "gameClock": 0.0010000000002037,
+    "location": "/lesson/colors/activity/bubbles/rank/classic?content=colors.core.ABCDE",
+    "modalStack": ""
+  },
+  "architectureInfo": "x86_64"
+}
